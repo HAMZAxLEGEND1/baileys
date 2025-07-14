@@ -95,24 +95,6 @@ async function start() {
 start();
 ```
 
----
-
-## 📜 API Documentation
-
-| Features.       | Description |
-|---------------------|----------| | 
-`sendMessage()` |
- Send text messages,
-  images, videos, etc. | 
- | `updateProfile()` |
-  Change profile photo and username |
-   | `getChats()` |
-    Get a list of user chats |
- | `groupParticipantsUpdate()` 
- | Add/remove group members |
-  📖 **Full documentation:** [Baileys API Docs](https://github.com/adiwajshing/Baileys/wiki)
-
----
 
 ### 🪀 Sending All Interactive Msg 
 ```ts
