@@ -1,7 +1,7 @@
 # 🚀 Baileys WhatsApp API - By HAMZAxLEGEND1
 
 ![GitHub stars](https://img.shields.io/github/stars/HAMZAxLEGEND1/baileys?style=social)
-![Node.js](https://img.shields.io/badge/node-%3E%3D14.0-green)
+![Node.js](https://img.shields.io/badge/node-%3E%3D20.0-green)
 
 Baileys WhatsApp API is a Node.js-based library for communicating with WhatsApp Web without the need for additional WebSockets. It is a modification of Whiskey Baileys to improve stability and support more message types. Developed with high performance in mind for bots, message automation, and integration with other WhatsApp applications. 
 
